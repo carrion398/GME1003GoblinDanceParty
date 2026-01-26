@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj": {}
+    "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-main (1)\\GME1003GoblinDanceParty-main\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj": {
+    "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-main (1)\\GME1003GoblinDanceParty-main\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj",
+        "projectUniqueName": "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-main (1)\\GME1003GoblinDanceParty-main\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj",
         "projectName": "GME1003GoblinDanceParty",
-        "projectPath": "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj",
+        "projectPath": "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-main (1)\\GME1003GoblinDanceParty-main\\GME1003GoblinDanceParty\\GME1003GoblinDanceParty.csproj",
         "packagesPath": "C:\\Users\\cgmcc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty-master\\GME1003GoblinDanceParty\\obj\\",
+        "outputPath": "C:\\Users\\cgmcc\\Downloads\\GME1003GoblinDanceParty-main (1)\\GME1003GoblinDanceParty-main\\GME1003GoblinDanceParty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
