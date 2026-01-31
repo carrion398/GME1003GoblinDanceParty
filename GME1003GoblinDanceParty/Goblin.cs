@@ -10,6 +10,7 @@ namespace GME1003GoblinDanceParty
         private Texture2D _goblinSprite;
         private int _rows, _cols, _currentFrame;
         private Vector2 _position;
+        
 
         private int timeSinceLastFrame = 0;
         private int millisecondsPerFrame = 65;
